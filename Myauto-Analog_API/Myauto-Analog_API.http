@@ -1,0 +1,6 @@
+@Myauto_Analog_API_HostAddress = http://localhost:5198
+
+GET {{Myauto_Analog_API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
